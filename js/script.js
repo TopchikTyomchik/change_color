@@ -16,7 +16,6 @@ function generateHexColor() {
 }
 
 
-
 function change() {
    const backgoundColor = generateHexColor();
    bodyElement.style.backgroundColor = backgoundColor;
